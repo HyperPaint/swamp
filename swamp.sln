@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swamp", "swamp.csproj", "{92905CE1-4B9A-43FC-A6C4-C0E6C401B7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92905CE1-4B9A-43FC-A6C4-C0E6C401B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92905CE1-4B9A-43FC-A6C4-C0E6C401B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92905CE1-4B9A-43FC-A6C4-C0E6C401B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92905CE1-4B9A-43FC-A6C4-C0E6C401B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B717FBE-E6B9-426B-AC48-D68B6AA38D45}
+	EndGlobalSection
+EndGlobal
